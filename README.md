@@ -1,6 +1,8 @@
 # Project Notes 
 
-This project is an app I built for a feedback form from my React course. With this form you can submit, edit and delete pieces of feedback, while providing ratings which have their average calculated. The data is stored and fetched from a mock backend (json-server). 
+This project is an app I built for a feedback form from my React course. With this form you can submit, edit and delete pieces of feedback, while providing ratings which have their average calculated. 
+
+The data is stored and fetched from a mock backend (json-server). As it's mock, my server only runs locally and I can't deploy my app live. But if you run this project locally you can see the form in full effect.   
 
 # How to Use
 
