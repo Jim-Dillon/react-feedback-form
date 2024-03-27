@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": "d725",
+      "text": "This is a 2 star review",
+      "rating": 2
+    },
+    {
+      "id": "0cef",
+      "text": "This is a bad review",
+      "rating": 2
+    },
+    {
+      "id": "e078",
+      "text": "This is another review",
+      "rating": 4
+    }
+  ]
+}
