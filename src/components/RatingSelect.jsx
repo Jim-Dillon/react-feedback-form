@@ -12,7 +12,7 @@ const RatingSelect = ({ select }) => {
       setSelected(feedbackEdit.item.rating)
     }, [feedbackEdit])
 
-
+    // selecting rating for an item to submit
     const handleChange = (e) => {
         setSelected(+e.currentTarget.value)
         select(+e.currentTarget.value)
