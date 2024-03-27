@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Project Notes 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an app for a feedback form. With this form you can submit, edit and delete pieces of feedback. The data is stored and fetched from a mock backend json-server. 
 
-## Available Scripts
+# How to Use
 
-In the project directory, you can run:
+Clone this project directory, and then you can run:
 
 ### `npm start`
 
@@ -28,6 +28,14 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run server`
+
+Builds the backend database for the form, which can be accessed at the endpoint [http://localhost:3003](http://localhost:3003) - I use Postman for a backend view and edit of this data.
+
+### `npm run dev`
+
+Runs the app and builds the server together, using Concurrently. 
 
 ### `npm run eject`
 
